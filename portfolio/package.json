@@ -1,7 +1,7 @@
 {
   "name": "developer-portfolio",
   "version": "0.1.0",
-  "homepage": "https://glassben.github.io",
+  "homepage": "https://glassben.github.io/portfolio",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.2",
